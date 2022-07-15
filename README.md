@@ -1,2 +1,2 @@
 # challenge-QR-code-component
-link: https://replit.com/@analuizazzz/challenge-QR-CODE?v=1
+link: https://challenge-qr-code.analuizazzz.repl.co/

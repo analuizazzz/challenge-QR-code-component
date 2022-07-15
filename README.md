@@ -1,0 +1,1 @@
+# challenge-QR-code-component
